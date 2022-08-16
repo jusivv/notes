@@ -6,13 +6,13 @@ module.exports = {
   nav, // 顶部导航栏
   sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
   logo: 'https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220720_132208.png', // 导航栏logo
-  repo: 'eryajf/notes', // 导航栏右侧生成Github链接
+  repo: 'jusivv/notes', // 导航栏右侧生成Github链接
   searchMaxSuggestions: 10, // 搜索结果显示最大数
   lastUpdated: '上次更新', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
   editLinks: true, // 启用编辑链接
   docsDir: 'docs', // 编辑的文件夹
   docsBranch: 'main', // 编辑的分支
-  editLinkText: '帮助我们改善此页面',
+  // editLinkText: '帮助我们改善此页面',
   searchPlaceholder: "按下 𝑺 搜索",  // 可选：搜索栏占位文本，默认："$ grep ..."
 
   //*** 以下配置是Vdoing主题改动和新增的配置 ***//
