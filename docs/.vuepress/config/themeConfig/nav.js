@@ -1,9 +1,10 @@
 // nav
 module.exports = [
-  { text: '首页', link: '/' },
-  { text: 'one',link: '/one/',},
-  { text: 'two',link: '/two/',},
-  { text: 'three', link: '/three/' },
-  { text: '留言板', link: '/message-board/' },
-  { text: '我的博客', link: 'https://wiki.eryajf.net' },
+  { text: 'Home', link: '/' },
+  { text: 'Note',link: '/note/',},
+  { text: 'Tech',link: '/tech/',},
+  { text: 'Intelli', link: '/intelli/' },
+  { text: 'Work', link: '/work/' },
+  // { text: '留言板', link: '/message-board/' },
+  // { text: '我的博客', link: 'https://wiki.eryajf.net' },
 ]
