@@ -8,8 +8,8 @@ module.exports = {
   logo: 'https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220720_132208.png', // 导航栏logo
   repo: 'jusivv/notes', // 导航栏右侧生成Github链接
   searchMaxSuggestions: 10, // 搜索结果显示最大数
-  lastUpdated: '上次更新', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
-  editLinks: true, // 启用编辑链接
+  lastUpdated: 'Last update', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
+  editLinks: false, // 启用编辑链接
   docsDir: 'docs', // 编辑的文件夹
   docsBranch: 'main', // 编辑的分支
   // editLinkText: '帮助我们改善此页面',
