@@ -4,7 +4,7 @@ const themeConfig = require('./config/themeConfig.js');
 
 module.exports = {
   theme: 'vdoing', // 使用npm包主题
-  title: "notes",
+  title: "jusivv's notes",
   description: 'jusivv\'s notes',
   base: '/notes/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
